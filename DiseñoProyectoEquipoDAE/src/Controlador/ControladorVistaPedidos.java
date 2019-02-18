@@ -24,6 +24,7 @@ import javafx.stage.Stage;
  */
 public class ControladorVistaPedidos implements Initializable {
 
+    
     @FXML
     private JFXTextField txtCodigoProducto;
 
